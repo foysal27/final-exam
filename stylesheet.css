@@ -1,0 +1,67 @@
+
+
+body{
+
+
+}
+	.container-fluid{
+	background-image: url(../images/headerbg.png);
+	/*border: 2px solid black; 
+	/*z-index: -1; */
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	/*position: relative;
+	padding-bottom: 100px; */
+
+}   
+
+.row1{
+	padding-left: 20px;
+	width: 1250px;
+	
+}
+
+.first_para{
+	padding-left: 50px;
+	
+	width: 100%;
+	
+	/*position: absolute;  */
+}
+.thumbnail a>img, .thumbnail>img {
+	width: 80%;
+}
+
+
+.icon-menu{
+	float: right;
+	/*border: 2px solid black; */
+	margin-top: 20px;
+	color: inherit;
+	padding-right: 10px;
+}
+
+.icon-menu i{
+	
+	color: inherit;
+	padding-right: 20px;
+}
+
+.row h3{
+	float: left;
+	
+	margin-top: 20px;
+}
+
+#carousel-example-generic{
+	
+	
+	width: 100%;
+
+}
+
+.content_section{
+	background-image: url(../images/headerbg.png);
+	border: 2px solid black;
+}   
